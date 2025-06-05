@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ctrlfind</string>
+    <string name="facebook_app_id">1137923350304447</string>
+    <string name="fb_login_protocol_scheme">fb1137923350304447</string>
+    <string name="facebook_client_token">18b5e67dac8acd657da561c0739c2778</string>
+</resources>

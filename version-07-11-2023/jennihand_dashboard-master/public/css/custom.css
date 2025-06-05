@@ -1,0 +1,23 @@
+a {
+  color: #008080;
+}
+.voyager .pagination .active>a, .voyager .pagination .active>a:focus, .voyager .pagination .active>a:hover, .voyager .pagination .active>span:focus, .voyager .pagination .active>span:hover, .voyager .pagination .active span {
+  z-index: 3;
+  color: #fff;
+  cursor: default;
+  background-color: #20afaf;
+  border-color: #20afaf;
+  outline: none;
+}
+.voyager .alert.alert-info {
+  background-color: #1baeae;
+}
+.btn.btn-primary.active {
+  background: #008080;
+}
+.btn.btn-primary {
+  background: #01a5a5;
+}
+.voyager .panel.panel-primary .panel-heading {
+  background-color: #19a1a1;
+}

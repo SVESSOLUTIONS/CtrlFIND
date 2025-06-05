@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "447463329052",
+    "project_id": "ctrlfind-dfcae",
+    "storage_bucket": "ctrlfind-dfcae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447463329052:android:2bcc98f5e70133c55b7ed9",
+        "android_client_info": {
+          "package_name": "com.ctrlfind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447463329052-9fbfgujvi8m4obeiql4ob4s1ncruotba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ctrlfind",
+            "certificate_hash": "91b36df509a2707cd9503926e9a24072174b5201"
+          }
+        },
+        {
+          "client_id": "447463329052-ktaqc4ijhtvoh5767c9uiit35s6nujjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaKpkguzMTBY0ABsGoHS1yVRbGwvSUGMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447463329052-ktaqc4ijhtvoh5767c9uiit35s6nujjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447463329052-5h7tj10sv4ov82ddvtcjpe7kl5t661l7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ctrlfind"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
